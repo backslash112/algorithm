@@ -29,6 +29,7 @@
 		64900ADD1A3BD04E00898202 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		64900AE41A3BD09500898202 /* BubbleSortClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BubbleSortClass.swift; sourceTree = "<group>"; };
 		64900AE51A3BD09500898202 /* IntBinarySearchClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntBinarySearchClass.swift; sourceTree = "<group>"; };
+		64900AE81A3BD8B200898202 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 		64900AD11A3BD04E00898202 = {
 			isa = PBXGroup;
 			children = (
+				64900AE81A3BD8B200898202 /* README */,
 				64900ADC1A3BD04E00898202 /* Algorithm */,
 				64900ADB1A3BD04E00898202 /* Products */,
 			);
@@ -241,6 +243,7 @@
 				64900AE31A3BD04E00898202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
